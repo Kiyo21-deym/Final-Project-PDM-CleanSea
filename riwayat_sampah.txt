@@ -1,0 +1,6 @@
+"Plastik" - 2.5 Kg - "Pantai Kenjeran" - 25 poin
+"Botol" - 1.2 Kg - "Bank Sampah A" - 12 poin
+"Kertas" - 3.0 Kg - "Pantai Ria" - 30 poin
+"Kaca" - 3.00 Kg - "Pantai Kuta" - 30 poin
+"Kertas" - 4.00 Kg - "Dempo" - 120 poin
+"Elektronik" - 20.00 Kg - "Tong Sampah Alfamart" - 2000 poin
